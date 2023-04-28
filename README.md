@@ -30,7 +30,7 @@ To use the code in this repository, follow these steps:
 
 2. Clone the repository to your local machine.
 
-3. Open the crack_detection_classification.ipynb file in Jupyter Notebook or any other compatible environment.
+3. Open the `Crack-Detection-Classification-of-Concrete-Structures-DL.ipynb` file in Jupyter Notebook or any other compatible environment.
 
 4. Run the code cells in the notebook to train and test the crack detection and classification system.
 

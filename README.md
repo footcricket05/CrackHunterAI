@@ -2,7 +2,7 @@
 
 ## Overview
 
-The "Crack Detection & Classification of Concrete Structures" project aims to develop a system that can detect and classify cracks in concrete structures using image processing and machine learning techniques. This system involves pre-processing of images, feature extraction using edge detection and segmentation techniques, and classification using a convolutional neural network (CNN).
+The CrackHunterAI project aims to develop a system that can detect and classify cracks in concrete structures using image processing and machine learning techniques. This system involves pre-processing of images, feature extraction using edge detection and segmentation techniques, and classification using a convolutional neural network (CNN).
 
 ## Dataset
 
@@ -30,7 +30,7 @@ To use the code in this repository, follow these steps:
 
 2. Clone the repository to your local machine.
 
-3. Open the `Crack-Detection-Classification-of-Concrete-Structures-DL.ipynb` file in Jupyter Notebook or any other compatible environment.
+3. Open the `CrackHunterAI.ipynb` file in Jupyter Notebook or any other compatible environment.
 
 4. Run the code cells in the notebook to train and test the crack detection and classification system.
 
